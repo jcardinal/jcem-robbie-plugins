@@ -18,4 +18,4 @@ class GuysWatch(BotPlugin):
     @re_botcmd(pattern=r"(^| )test git( |$)", prefixed=False, flags=re.IGNORECASE)
     def watch_for_bluejay(self, msg, match):
         """Test updating a plugin via git repo"""
-        return "If you're reading this, git updates are working"
+        return "If you're reading this, git updates are frustrating"
