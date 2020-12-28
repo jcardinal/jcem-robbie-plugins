@@ -1,0 +1,9 @@
+[Core]
+Name = GuysWatch
+Module = guyswatch
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = What if we said "guys" less?
